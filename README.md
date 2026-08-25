@@ -5,6 +5,8 @@ The idea of this tool was inspired by **UnitedMet** [2], which uses rank-based B
 With the idea to integrate UnitedMet with graph network-based approach, Biomni suggested the plan and implement this package, as well as benchmark. 
 This repository can serve as a showcase of how Biomni can help to develop a new computational tool for biomedical research. All generated files are provided here.
 
+The study comprises two stages. The first stage is to implement the tools and perform the benchmark for all predictable metabolites. The second stage is the analysis of prediction confidence filtering for the metabolites, trying to improve the performance and investigate the high-confidence predictable metabolites. To summarize, Lasso achieved the best performance among all methods including UnitedMet and UniMetGraph (UniGraph). A possible explanation is that UniMetGraph and UnitedMet need large-sized datasets to unleash the prediction capability. 
+
 ## Requirements
 
 ### Python packages
