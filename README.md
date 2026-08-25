@@ -145,7 +145,7 @@ For each confidence measure and model:
 
 ## Results Summary
 
-Results are placed in the report/ folder.
+Results are placed in the [report/](./report).
 
 ## References
 [1] Huang K, Zhang S, Wang H, Qu Y, Lu Y, Roohani Y, Li R, Qiu L, Li G, Zhang J, Yin D, Marwaha S, Carter JN, Zhou X, Wheeler M, Bernstein JA, Wang M, He P, Zhou J, Snyder M, Cong L, Regev A, Leskovec J. Biomni: A General-Purpose Biomedical AI Agent. bioRxiv [Preprint]. 2025 Jun 2:2025.05.30.656746. doi: 10.1101/2025.05.30.656746. PMID: 40501924; PMCID: PMC12157518.
