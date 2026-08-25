@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="720pt" height="720pt" viewBox="0 0 720 720" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-08-25T17:55:06.822702</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 720 
+L 720 720 
+L 720 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 153.34 659.135464 
+L 598.028 659.135464 
+L 598.028 25.44 
+L 153.34 25.44 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#pc2471a3a04)">
+    <image xlink:href="data:image/png;base64,
+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" id="image5ec8b9fba3" transform="scale(1 -1) translate(0 -634.32)" x="153.34" y="-24.815464" width="444.96" height="634.32"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m060947002c" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m060947002c" x="181.133" y="659.135464" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'" transform="translate(143.033672 693.809098) rotate(-30)">UniGraph</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m060947002c" x="236.719" y="659.135464" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'" transform="translate(196.213745 695.198161) rotate(-30)">UnitedMet</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m060947002c" x="292.305" y="659.135464" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'" transform="translate(232.076017 706.585661) rotate(-30)">Simplified GNN</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m060947002c" x="347.891" y="659.135464" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'" transform="translate(312.196246 692.420817) rotate(-30)">XGBoost</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m060947002c" x="403.477" y="659.135464" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'" transform="translate(379.331507 685.752848) rotate(-30)">Lasso</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m060947002c" x="459.063" y="659.135464" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'" transform="translate(435.399233 685.474723) rotate(-30)">Ridge</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m060947002c" x="514.649" y="659.135464" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'" transform="translate(486.345231 688.153629) rotate(-30)">MIRTH</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m060947002c" x="570.235" y="659.135464" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'" transform="translate(523.953085 698.533317) rotate(-30)">Kernel MKL</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_9">
+      <defs>
+       <path id="m20abd0c629" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="36.001591" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="38.537997" transform="rotate(-0 146.34 38.537997)">glucose [Carbohydrate]</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="57.124773" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="59.661179" transform="rotate(-0 146.34 59.661179)">guanosine 5'-diphospho-fucose [Nucleotide]</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="78.247955" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="80.784362" transform="rotate(-0 146.34 80.784362)">maltose [Carbohydrate]</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="99.371137" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="101.907544" transform="rotate(-0 146.34 101.907544)">fructose-6-phosphate [Carbohydrate]</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="120.49432" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="123.030726" transform="rotate(-0 146.34 123.030726)">1-arachidoylglycerophosphocholine [Lipid]</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="141.617502" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="144.153908" transform="rotate(-0 146.34 144.153908)">glucose 6-phosphate [Carbohydrate]</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="162.740684" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="165.27709" transform="rotate(-0 146.34 165.27709)">cysteinylglycine [Peptide]</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="183.863866" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="186.400272" transform="rotate(-0 146.34 186.400272)">gluconate [Carbohydrate]</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="204.987048" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="207.523454" transform="rotate(-0 146.34 207.523454)">pyroglutamylvaline [Peptide]</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="226.11023" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="228.646636" transform="rotate(-0 146.34 228.646636)">1-palmitoyl-GPC (16:0) [Lipid]</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="247.233412" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="249.769819" transform="rotate(-0 146.34 249.769819)">tryptophylalanine [Peptide]</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="268.356595" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="270.893001" transform="rotate(-0 146.34 270.893001)">2-arachidonoyl glycerol [Lipid]</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="289.479777" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="292.016183" transform="rotate(-0 146.34 292.016183)">p-cresol sulfate [Amino Acid]</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="310.602959" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="313.139365" transform="rotate(-0 146.34 313.139365)">1-palmitoleoylglycerophosphoetha...</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="331.726141" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="334.262547" transform="rotate(-0 146.34 334.262547)">laurylcarnitine [Lipid]</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="352.849323" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="355.385729" transform="rotate(-0 146.34 355.385729)">mead acid (20:3n9) [Lipid]</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="373.972505" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="376.508911" transform="rotate(-0 146.34 376.508911)">N-acetylgalactosamine [Carbohydrate]</text>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="395.095687" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="397.632094" transform="rotate(-0 146.34 397.632094)">pyruvate [Carbohydrate]</text>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="416.218869" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="418.755276" transform="rotate(-0 146.34 418.755276)">maltotetraose [Carbohydrate]</text>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="437.342052" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="439.878458" transform="rotate(-0 146.34 439.878458)">7-alpha-hydroxy-3-oxo-4-choleste... [Lipid]</text>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="458.465234" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="461.00164" transform="rotate(-0 146.34 461.00164)">4-hydroxy-2-oxoglutaric acid [Lipid]</text>
+     </g>
+    </g>
+    <g id="ytick_22">
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="479.588416" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="482.124822" transform="rotate(-0 146.34 482.124822)">cys-gly, oxidized [Amino Acid]</text>
+     </g>
+    </g>
+    <g id="ytick_23">
+     <g id="line2d_31">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="500.711598" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="503.248004" transform="rotate(-0 146.34 503.248004)">1-dihomo-linoleoylglycerophospho...</text>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="521.83478" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="524.371186" transform="rotate(-0 146.34 524.371186)">1-methylhistidine [Amino Acid]</text>
+     </g>
+    </g>
+    <g id="ytick_25">
+     <g id="line2d_33">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="542.957962" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_33">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="545.494368" transform="rotate(-0 146.34 545.494368)">octaethylene glycol [Xenobiotics]</text>
+     </g>
+    </g>
+    <g id="ytick_26">
+     <g id="line2d_34">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="564.081144" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_34">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="566.617551" transform="rotate(-0 146.34 566.617551)">glutamine-isoleucine [Peptide]</text>
+     </g>
+    </g>
+    <g id="ytick_27">
+     <g id="line2d_35">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="585.204326" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_35">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="587.740733" transform="rotate(-0 146.34 587.740733)">caffeine [Xenobiotics]</text>
+     </g>
+    </g>
+    <g id="ytick_28">
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="606.327509" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_36">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="608.863915" transform="rotate(-0 146.34 608.863915)">homocarnosine [Peptide]</text>
+     </g>
+    </g>
+    <g id="ytick_29">
+     <g id="line2d_37">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="627.450691" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_37">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="629.987097" transform="rotate(-0 146.34 629.987097)">N-acetylglycine [Amino acid]</text>
+     </g>
+    </g>
+    <g id="ytick_30">
+     <g id="line2d_38">
+      <g>
+       <use xlink:href="#m20abd0c629" x="153.34" y="648.573873" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_38">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: end" x="146.34" y="651.110279" transform="rotate(-0 146.34 651.110279)">6-sialyl-N-acetyllactosamine [Carbohydrate]</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 153.34 659.135464 
+L 153.34 25.44 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 598.028 659.135464 
+L 598.028 25.44 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 153.34 659.135464 
+L 598.028 659.135464 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 153.34 25.44 
+L 598.028 25.44 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 12px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: middle" x="375.684" y="19.44" transform="rotate(-0 375.684 19.44)">Top 30 Most Predictable Metabolites</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 625.821 659.135464 
+L 657.505773 659.135464 
+L 657.505773 25.44 
+L 625.821 25.44 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAACwAAANwCAYAAABUIIgQAAAFU0lEQVR4nO3d0Y3jSBAFQVLTtpznZ6bEtUEfAeEBGRYkiEJ1kxrs3v9f/z3XkNevA741F3xeY8ljuYPBjYRWsNYMa3PBjYRWsHZe968TvjP3hOeCW2tawVozrM0FNxLaXHAjoRWsNcPaXHAjoRWsNcPaXPC5761vVXNPuGCttabNBTcSWsFaM6zNBTcS2lxwI6EVrDXD2lxwI6EVrDXD2lxwfxmoFay11rS54EZCmwtuJLSCtfMau67NPeG54HP/NRJUwdq5W2vWXHAjoRWsdTRrc8GtNa1grbWmzQX3XUKbC+6k0wrWOum0ueBzj/2MtFV7Fey11rS54G5rWsFaM6zNBXfSaXPBfarSCtY66bS54E46rWCttabNBbfWtIK1fjLQ5oI76bSCtfPqaLbmgltr2lxwF3itYK21ps0Fn6u1ZhWstda0ueBz/W01b9VeBXvnaq1Zc8G9hGoFa601bS64l1BtLrh3Oq1grZdQbS64taYVrHVb0+aCGwmtYK2jWZsLbq1pc8Hn6m/grYK1fkXS5oL7UUYrWOu2ps0F906nFaz1K5I2F9xJpxWsdTRrc8GtNW0uuO8SWsFan1u1ueB+RdIK1jqatbng1ppWsNYMa3PBnXTaXHBbQitYa4a1ueBOOq1grbWmzQU3ElrBWkezNhfcWtMK1pphbS743HcnHTUX3JbQCtaaYW0uuHc6rWCttabNBbfWtIK11po2F9xIaHPBnXRawVprTZsLbiS0grWOZm0uuLWmFayd695q3qq9BoMbCa1graNZmwturWlzwY2EVrDWDGtzwV1+tIK11po2F9xIaAVrzbA2F9xIaHPBXeC1grVz33+/bvjK3BOeC+6k0wrWmmFtLriR0ArWeuPQ5oJba1rBWjOszQU3EtpccJcfrWCttabNBTcSWsFaM6zNBTcSWsHaebb+LYG9JzwXfJ7n8+uGr8w94bng82kkrIK181zNMDUX3FrTCtZaa9pccGtNK1jrJVSbCz6fTjqrYK21ps0Fd1vT5oJ7p9MK1lpr2lzwea73rxu+MveEC9Zaa9pccO90WsFa39a0ueDWmjYX3OVHK1jr25o2F9xa0wrWWmvaXHBrTStY6yVUmwvuU5VWsNZa0+aCz+d5ft3wlbknPBfcBV4rWGutaXPB53M1ElTBWmtNmwvutqYVrLXWtLngRkKbC+6k0wrWWmvaXHDfJbSCtY5mbS64k04rWGuGtbngRkIrWOu2ps0Ft9a0ueBGQitY64/2tbng1ppWsNYMa3PBjYRWsNZ3CW0uuLWmFaw1w9pccCOhzQWf99ZE7D3hgrXWmjYX3FrTCtbOpxm25oLPu5POKlhrrWlzwd3WtLngtoRWsNZtTZsLPp+tn5r3nnDBWrc1bS6425pWsNZtTZsLbq1pBWvd1rS54P5eQpsLbktoBWvd1rS54NaaVrB2PmN7be4JzwW31rSCtW5r2lxwa02bC+5TlVaw1lrT5oL7rVkrWDvv/pTRmgturWkFa+c99mFi7gnPBbfWtIK1bmvaXHBrTZsL7vKjFay11rS54C4/WsFaa02bC24ktIK13ji0ueD+XkKbC25LaAVr3da0ueDWmlaw1m1NmwturWkFa93WtLngRkIrWOuXUG0uuLWmzQV3gdcK1lpr2lxw//mCVrB2no5may64kdAK1pphbS74PF3grbngtoRWsNYMa3PBjYRWsNYMa3PBjYRWsNYMa3PBjYRWsNYMa3PBfW7V5oLbElrBWjOszQU3ElrBWjOszQU3ElrBWjOszQU3EtpccJ+qtIK11po2F9xIaAVrzbA2F9xIaAVr/wCIBGOLb/8oiwAAAABJRU5ErkJggg==" id="imaged10d7ee693" transform="scale(1 -1) translate(0 -633.6)" x="625.68" y="-25.2" width="31.68" height="633.6"/>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_31">
+     <g id="line2d_39">
+      <defs>
+       <path id="m1eaacac0c5" d="M 0 0 
+L 3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m1eaacac0c5" x="657.505773" y="659.135464" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_40">
+      <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: start" x="664.505773" y="662.758901" transform="rotate(-0 664.505773 662.758901)">−0.2</text>
+     </g>
+    </g>
+    <g id="ytick_32">
+     <g id="line2d_40">
+      <g>
+       <use xlink:href="#m1eaacac0c5" x="657.505773" y="568.607541" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_41">
+      <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: start" x="664.505773" y="572.230978" transform="rotate(-0 664.505773 572.230978)">−0.1</text>
+     </g>
+    </g>
+    <g id="ytick_33">
+     <g id="line2d_41">
+      <g>
+       <use xlink:href="#m1eaacac0c5" x="657.505773" y="478.079617" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_42">
+      <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: start" x="664.505773" y="481.703055" transform="rotate(-0 664.505773 481.703055)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_34">
+     <g id="line2d_42">
+      <g>
+       <use xlink:href="#m1eaacac0c5" x="657.505773" y="387.551694" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_43">
+      <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: start" x="664.505773" y="391.175131" transform="rotate(-0 664.505773 391.175131)">0.1</text>
+     </g>
+    </g>
+    <g id="ytick_35">
+     <g id="line2d_43">
+      <g>
+       <use xlink:href="#m1eaacac0c5" x="657.505773" y="297.02377" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_44">
+      <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: start" x="664.505773" y="300.647208" transform="rotate(-0 664.505773 300.647208)">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_36">
+     <g id="line2d_44">
+      <g>
+       <use xlink:href="#m1eaacac0c5" x="657.505773" y="206.495847" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_45">
+      <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: start" x="664.505773" y="210.119284" transform="rotate(-0 664.505773 210.119284)">0.3</text>
+     </g>
+    </g>
+    <g id="ytick_37">
+     <g id="line2d_45">
+      <g>
+       <use xlink:href="#m1eaacac0c5" x="657.505773" y="115.967923" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_46">
+      <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: start" x="664.505773" y="119.591361" transform="rotate(-0 664.505773 119.591361)">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_38">
+     <g id="line2d_46">
+      <g>
+       <use xlink:href="#m1eaacac0c5" x="657.505773" y="25.44" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_47">
+      <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: start" x="664.505773" y="29.063437" transform="rotate(-0 664.505773 29.063437)">0.5</text>
+     </g>
+    </g>
+    <g id="text_48">
+     <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: middle" x="695.493273" y="342.287732" transform="rotate(-90 695.493273 342.287732)">Spearman ρ</text>
+    </g>
+   </g>
+   <g id="LineCollection_1"/>
+   <g id="patch_8">
+    <path d="M 625.821 659.135464 
+L 641.663387 659.135464 
+L 657.505773 659.135464 
+L 657.505773 25.44 
+L 641.663387 25.44 
+L 625.821 25.44 
+L 625.821 659.135464 
+z
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pc2471a3a04">
+   <rect x="153.34" y="25.44" width="444.688" height="633.695464"/>
+  </clipPath>
+ </defs>
+</svg>
